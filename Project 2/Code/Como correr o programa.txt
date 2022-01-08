@@ -1,0 +1,10 @@
+Para correr o programa basta entrar no ficheiro Run.py e correr
+Após isso, terá de escolher diante de quatro opções:
+    1 - Gerar e Carregar Mapa
+    2 - Calcular caminho mais curto
+    3 - Imprimir Grafo
+    0 - Sair
+Dentro da primeira opção terá de escolher qual a tarefa que pretende executar:
+    1 - Poderá escolher o número de cidades e elas teram a mesma distancia entre iguais p.exemplo (A -> B = B -> A)
+    2 - Poderá escolher o número de cidades e elas teram a distancia diferente entre iguais p.exemplo (A -> B != B -> A)
+    3 - O programa escolhe automáticamente o maio numero de cidades que consegue carregar em menos de 30min (11 cidades)

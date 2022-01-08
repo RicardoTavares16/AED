@@ -1,0 +1,22 @@
+start in City1
+City1,City2,26
+City1,City3,34
+City1,City4,25
+City1,City5,19
+City1,City6,9
+City1,City7,36
+City2,City3,14
+City2,City4,7
+City2,City5,38
+City2,City6,15
+City2,City7,23
+City3,City4,29
+City3,City5,6
+City3,City6,28
+City3,City7,49
+City4,City5,48
+City4,City6,12
+City4,City7,32
+City5,City6,13
+City5,City7,43
+City6,City7,5
